@@ -22,6 +22,8 @@ url: 'https://rpmml.github.io' # the base hostname & protocol for your site, e.g
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
+remote_theme: just-the-docs/just-the-docs@v0.8.2
+color_scheme: dark
 search_enabled: false
 heading_anchors: true
 permalink: pretty
