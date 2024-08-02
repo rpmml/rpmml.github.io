@@ -17,7 +17,7 @@ title: Robot Planning Meets Machine Learning
 tagline: A graduate seminar course at Princeton
 description: A graduate seminar course at Princeton on robot planning and machine learning
 author: Tom Silver
-# baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
+baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://rpmml.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
