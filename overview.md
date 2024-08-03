@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Robot Planning Meets Machine Learning
-nav_exclude: true
+title: Overview
+nav_order: 1
 permalink: /:path/
 ---
 
