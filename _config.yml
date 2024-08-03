@@ -34,7 +34,6 @@ collections:
   staffers:
   modules:
   schedules:
-  announcements:
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -43,7 +42,7 @@ defaults:
     values:
       layout: staffer
       height: 300
-      subpath: '/assets/images/'
+      subpath: 'assets/images/'
       width: 300
   - scope:
       path: ''
@@ -55,11 +54,6 @@ defaults:
       type: schedules
     values:
       layout: schedule
-  - scope:
-      path: ''
-      type: announcements
-    values:
-      layout: announcement
 
 compress_html:
   clippings: all
@@ -72,3 +66,5 @@ compress_html:
 liquid:
   error_mode: strict
   strict_filters: true
+
+favicon_ico: "/assets/images/robot-favicon.png"
