@@ -27,9 +27,7 @@ color_scheme: custom
 search_enabled: false
 heading_anchors: true
 permalink: pretty
-footer_content: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/kevinlin1/just-the-class">just-the-class</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+footer_content:
 
 # Collections for website data
 collections:
