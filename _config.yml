@@ -49,11 +49,6 @@ defaults:
       type: modules
     values:
       layout: module
-  - scope:
-      path: ''
-      type: schedules
-    values:
-      layout: schedule
 
 compress_html:
   clippings: all

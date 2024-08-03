@@ -5,9 +5,9 @@ nav_order: 1
 permalink: /:path/
 ---
 
-# Robot Planning Meets Machine Learning
-## Princeton University, Fall 2025
-<hr>
+<h1>Robot Planning Meets Machine Learning</h1>
+<h3 style="margin-top: 1em">Princeton University, Fall 2025</h3>
+<hr style="margin: 1em 0">
 <p><b>Instructor:</b> <a href="https://tomsilver.github.io">Tom Silver</a></p>
 
 <p><b>Time and Location:</b> TBD</p>
