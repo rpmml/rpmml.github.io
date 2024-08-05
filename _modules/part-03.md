@@ -7,7 +7,7 @@ Nov 3
   : [](#)
 
 Nov 4
-: **Paper**{: .label .label-green }Student-Led Paper Presentations
+: **Papers**{: .label .label-green }Student-Led Paper Presentations
   : [PDF1](#) [PDF2](#)
 
 Nov 5
@@ -15,7 +15,7 @@ Nov 5
   : [](#)
 
 Nov 6
-: **Paper**{: .label .label-green }Student-Led Paper Presentations
+: **Papers**{: .label .label-green }Student-Led Paper Presentations
   : [PDF1](#) [PDF2](#)
 
 Nov 10
@@ -23,7 +23,7 @@ Nov 10
   : [](#)
 
 Nov 11
-: **Paper**{: .label .label-green }Student-Led Paper Presentations
+: **Papers**{: .label .label-green }Student-Led Paper Presentations
   : [PDF1](#) [PDF2](#)
 
 Nov 12
@@ -31,7 +31,7 @@ Nov 12
   : [](#)
 
 Nov 13
-: **Paper**{: .label .label-green }Student-Led Paper Presentations
+: **Papers**{: .label .label-green }Student-Led Paper Presentations
   : [PDF1](#) [PDF2](#)
 
 Nov 17
@@ -39,7 +39,7 @@ Nov 17
   : [](#)
 
 Nov 18
-: **Paper**{: .label .label-green }Student-Led Paper Presentations
+: **Papers**{: .label .label-green }Student-Led Paper Presentations
   : [PDF1](#) [PDF2](#)
 
 Nov 19
@@ -47,7 +47,7 @@ Nov 19
   : [](#)
 
 Nov 20
-: **Paper**{: .label .label-green }Student-Led Paper Presentations
+: **Papers**{: .label .label-green }Student-Led Paper Presentations
   : [PDF1](#) [PDF2](#)
 
 Nov 24

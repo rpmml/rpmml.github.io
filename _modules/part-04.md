@@ -7,7 +7,7 @@ Dec 1
   : [](#)
 
 Dec 2
-: **Paper**{: .label .label-green }Student-Led Paper Presentations
+: **Papers**{: .label .label-green }Student-Led Paper Presentations
   : [PDF1](#) [PDF2](#)
 
 Dec 3
@@ -15,7 +15,7 @@ Dec 3
   : [](#)
 
 Dec 4
-: **Paper**{: .label .label-green }Student-Led Paper Presentations
+: **Papers**{: .label .label-green }Student-Led Paper Presentations
   : [PDF1](#) [PDF2](#)
 
 Dec 8
@@ -23,7 +23,7 @@ Dec 8
   : [](#)
 
 Dec 9
-: **Paper**{: .label .label-green }Student-Led Paper Presentations
+: **Papers**{: .label .label-green }Student-Led Paper Presentations
   : [PDF1](#) [PDF2](#)
 
 Dec 10
@@ -31,7 +31,7 @@ Dec 10
   : [](#)
 
 Dec 11
-: **Paper**{: .label .label-green }Student-Led Paper Presentations
+: **Papers**{: .label .label-green }Student-Led Paper Presentations
   : [PDF1](#) [PDF2](#)
 
 Dec 15
