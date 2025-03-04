@@ -24,10 +24,6 @@ Dec 4
 : "Title of the paper" (Author, Year)
   : [PDF](#)
 
-Dec 8
-: **HW**{: .label .label-red }Pre-Class Paper Reviews Due
-  : [](#)
-
 Dec 15
 : **Project**{: .label .label-yellow }Final Project Due
   : [Guidelines](#)
