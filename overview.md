@@ -5,12 +5,13 @@ nav_order: 1
 permalink: /:path/
 ---
 
-<h1>Robot Planning Meets Machine Learning</h1>
+<h1>ECE 531/COS 531: Robot Planning Meets Machine Learning</h1>
 <h3 style="margin-top: 1em">Princeton University, Fall 2025</h3>
 <hr style="margin: 1em 0">
 <p><b>Instructor:</b> <a href="https://tomsilver.github.io">Tom Silver</a></p>
 
-<p><b>Time and Location:</b> TBD</p>
+<p><b>Time:</b> Tuesday, Thursday 10:40 AM-12:00 PM</p>
+<p><b>Location:</b> TBD</p>
 
 <p><b>Course description:</b> Planning and learning are essential for intelligent robots. In this course, we will consider how planning and learning can be combined to accomplish difficult tasks over long time horizons with sparse feedback, complicated constraints, and multiple forms of uncertainty. The course will be in two parts. In Part 1, the instructor will lecture on planning and students will complete problem sets to establish a common technical foundation. In Part 2, students will present papers on machine learning for planning while working on extended final projects.</p>
 
