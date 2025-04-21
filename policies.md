@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Policies
-nav_order: 5
+nav_order: 6
 ---
 
 <h1>Course Policies</h1>

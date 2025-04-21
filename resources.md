@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Resources
-nav_order: 4
+nav_order: 5
 ---
 
 <h1>Resources</h1>
