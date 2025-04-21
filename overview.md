@@ -17,6 +17,7 @@ permalink: /:path/
 
 <h2>Quick Links</h2>
 <ul>
+<li>New student registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLScFXiWyp5Rf2jW-e-CuX51656R7vvsjSRX6O5Tp805Pq-viIw/viewform?usp=sharing">Google form</a></li>
 <li>Access homework code: <a href="https://github.com/rpmml/rpmml-code">GitHub</a></li>
 <li>Submit problem sets: <a href="https://www.gradescope.com/courses/1025616">Gradescope</a></li>
 <li>Ask questions: Piazza (coming soon)</li>
