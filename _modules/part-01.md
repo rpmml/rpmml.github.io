@@ -27,11 +27,11 @@ Sep 15
   : [HW1](#)
 
 Sep 16
-: **Lecture**{: .label .label-purple }Planning and RL
+: **Lecture**{: .label .label-purple }Partial Observability
   : [Slides](#)
 
 Sep 18
-: **Lecture**{: .label .label-purple }Partial Observability
+: **Lecture**{: .label .label-purple }Planning and RL
   : [Slides](#)
 
 Sep 22
@@ -59,8 +59,6 @@ Oct 2
   : [Slides](#)
 
 Oct 6
-: **HW**{: .label .label-red }HW4 Due
-  : [HW4](#)
 : **Project**{: .label .label-yellow }Final Project Proposal Due
   : [Guidelines](#)
 
