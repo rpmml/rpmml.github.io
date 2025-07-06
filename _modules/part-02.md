@@ -17,7 +17,7 @@ Oct 16
 
 Oct 20
 : **HW**{: .label .label-red }Pre-Class Paper Reviews Due
-  : [Guidelines](#)
+  : [Guidelines](/assets/pdf/paper_review_guidelines.pdf)
 
 Oct 21
 : **Papers**{: .label .label-green }<b>Online MDP Learning</b>
