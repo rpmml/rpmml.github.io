@@ -7,7 +7,7 @@ Nov 3
   : [](#)
 
 Nov 4
-: **Papers**{: .label .label-green }<b>Learning Neural Models for MCTS</b>
+: **Papers**{: .label .label-green }<b>Learning to Guide MCTS</b>
 : "Mastering the game of Go with deep neural networks and tree search" (Silver et al., 2016)
   : [PDF](https://webdocs.cs.ualberta.ca/~hayward/355/masteringgameofgo.pdf)
 : "Mastering chess and shogi by self-play with a general reinforcement learning algorithm" (Silver et al., 2017)
@@ -20,7 +20,7 @@ Nov 5
   : [](#)
 
 Nov 6
-: **Papers**{: .label .label-green }<b>Learning Policies for Guiding Planning</b>
+: **Papers**{: .label .label-green }<b>Learning Policies to Guide Planning</b>
 : "Learning control knowledge for forward search planning" (Yoon et al., 2008)
   : [PDF](http://jmlr.org/papers/volume9/yoon08a/yoon08a.pdf)
 : "PG3: policy-guided planning for generalized policy generation" (Yang et al., 2022)
@@ -33,46 +33,52 @@ Nov 10
   : [](#)
 
 Nov 11
-: **Papers**{: .label .label-green }<b>Learning to Prune Actions</b>
-: "Title of the paper" (Author, Year)
-  : [PDF](#)
-: "Title of the paper" (Author, Year)
-  : [PDF](#)
+: **Papers**{: .label .label-green }<b>Learning Samplers for Motion Planning and TAMP</b>
+: "Motion planning networks: bridging the gap between learning-based and classical motion planners" (Qureshi et al., 2020)
+  : [PDF](https://arxiv.org/pdf/1907.06013)
+: "Learning constrained distributions of robot configurations with generative adversarial networks" (Lembono et al., 2021)
+  : [PDF](https://arxiv.org/pdf/2011.05717)
+: "Compositional diffusion-based continuous constraint solvers" (Yang et al., 2023)
+  : [PDF](https://arxiv.org/pdf/2309.00966)
 
 Nov 12
 : **HW**{: .label .label-red }Pre-Class Paper Reviews Due
   : [](#)
 
 Nov 13
-: **Papers**{: .label .label-green }<b>Learning Task Abstractions</b>
-: "Title of the paper" (Author, Year)
-  : [PDF](#)
-: "Title of the paper" (Author, Year)
-  : [PDF](#)
+: **Papers**{: .label .label-green }<b>Classical Planning with LLMs</b>
+: "LLMs can't plan, but can help planning in LLM-Modulo frameworks" (Kambhampati et al., 2024)
+  : [PDF](https://arxiv.org/pdf/2402.01817)
+: "Generalized planning in PDDL domains with pretrained large language models" (Silver et al., 2023)
+  : [PDF](https://arxiv.org/pdf/2305.11014)
+: "Classical planning with LLM-generated heuristics: challenging the state of the art with python code" (Corrêa et al., 2025)
+  : [PDF](https://arxiv.org/pdf/2503.18809)
 
 Nov 17
 : **HW**{: .label .label-red }Pre-Class Paper Reviews Due
   : [](#)
 
 Nov 18
-: **Papers**{: .label .label-green }<b>Learning State Abstractions</b>
-: "Learning search space partition for black-box optimization using monte carlo tree search" (Wang et al., 2020)
-  : [PDF](https://proceedings.neurips.cc/paper_files/paper/2020/file/e2ce14e81dba66dbff9cbc35ecfdb704-Paper.pdf)
-: "Title of the paper" (Author, Year)
-  : [PDF](#)
-: "Title of the paper" (Author, Year)
-  : [PDF](#)
+: **Papers**{: .label .label-green }<b>Learning Factored State Abstractions</b>
+: "State abstraction discovery from irrelevant state variables" (Jong & Stone, 2005)
+  : [PDF](https://www.ijcai.org/Proceedings/05/Papers/1655.pdf)
+: "Planning with learned object importance in large problem instances using graph neural networks" (Silver et al., 2021)
+  : [PDF](https://arxiv.org/pdf/2009.05613)
+: "CAMPs: learning context-specific abstractions for efficient planning in factored MDPs" (Chitnis et al., 2020)
+  : [PDF](https://arxiv.org/pdf/2007.13202)
 
 Nov 19
 : **HW**{: .label .label-red }Pre-Class Paper Reviews Due
   : [](#)
 
 Nov 20
-: **Papers**{: .label .label-green }<b>Learning Action Abstractions</b>
-: "Title of the paper" (Author, Year)
-  : [PDF](#)
-: "Title of the paper" (Author, Year)
-  : [PDF](#)
+: **Papers**{: .label .label-green }<b>Learning Action Abstractions (Options)</b>
+: "Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning" (Sutton et al., 1999)
+  : [PDF](https://people.cs.umass.edu/~barto/courses/cs687/Sutton-Precup-Singh-AIJ99.pdf)
+: "Diversity is all you need: learning skills without a reward function" (Eysenbach et al., 2018)
+  : [PDF](https://arxiv.org/pdf/1802.06070)
+: "Finding options that minimize planning time" (Jinnai et al., 2019)
+  : [PDF](https://proceedings.mlr.press/v97/jinnai19a/jinnai19a.pdf)
 
 Nov 24
 : **Project**{: .label .label-yellow }Project Update 2 Due

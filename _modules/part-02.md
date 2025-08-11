@@ -40,8 +40,8 @@ Oct 23
   : [PDF](https://proceedings.neurips.cc/paper_files/paper/2015/file/a1afc58c6ca9540d057299ec3016d726-Paper.pdf)
 : "Dream to control: learning behaviors by latent imagination" (Hafner et al., 2020)
   : [PDF](https://arxiv.org/pdf/1912.01603)
-: "Mastering diverse domains through world models" (Hafner et al., 2024)
-  : [PDF](https://arxiv.org/pdf/2301.04104)
+: "Guaranteed discovery of controllable latent states with multi-step inverse models" (Lamb et al., 2022)
+  : [PDF](https://arxiv.org/pdf/2207.08229)
 
 Oct 27
 : **HW**{: .label .label-red }Pre-Class Paper Reviews Due
