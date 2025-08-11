@@ -7,11 +7,11 @@ Nov 3
   : [](#)
 
 Nov 4
-: **Papers**{: .label .label-green }<b>Learning Heuristics</b>
-: "Title of the paper" (Author, Year)
-  : [PDF](#)
-: "Title of the paper" (Author, Year)
-  : [PDF](#)
+: **Papers**{: .label .label-green }<b>Accelerating MCTS</b>
+: "Mastering the game of Go with deep neural networks and tree search" (Silver et al., 2016)
+  : [PDF](https://webdocs.cs.ualberta.ca/~hayward/355/masteringgameofgo.pdf)
+: "Learning search space partition for black-box optimization using monte carlo tree search" (Wang et al., 2020)
+  : [PDF](https://proceedings.neurips.cc/paper_files/paper/2020/file/e2ce14e81dba66dbff9cbc35ecfdb704-Paper.pdf)
 
 Nov 5
 : **HW**{: .label .label-red }Pre-Class Paper Reviews Due
