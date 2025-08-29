@@ -4,7 +4,7 @@ title: Planning to Learn
 
 Dec 1
 : **HW**{: .label .label-red }Pre-Class Paper Reviews Due
-  : [](#)
+  : [PDF](/assets/pdf/hw/paper_review_guidelines.pdf) \| [LaTeX](/assets/pdf/hw/paper_review_guidelines.tex)
 
 Dec 2
 : **Papers**{: .label .label-green }<b>Exploration + Planning</b>
@@ -17,7 +17,7 @@ Dec 2
 
 Dec 3
 : **HW**{: .label .label-red }Pre-Class Paper Reviews Due
-  : [](#)
+  : [PDF](/assets/pdf/hw/paper_review_guidelines.pdf) \| [LaTeX](/assets/pdf/hw/paper_review_guidelines.tex)
 
 Dec 4
 : **Papers**{: .label .label-green }<b>Planning to Learn with Human-in-the-Loop</b>
@@ -30,4 +30,4 @@ Dec 4
 
 Dec 15
 : **Project**{: .label .label-yellow }Final Project Due
-  : [Guidelines](#)
+  : [](#)

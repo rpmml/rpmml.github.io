@@ -1,0 +1,143 @@
+\documentclass[11pt]{article}
+
+% -------------------------------------------------
+% Packages
+% -------------------------------------------------
+\usepackage[margin=1in]{geometry}          % Page geometry
+\usepackage{xcolor}                        % Color definitions
+
+% Math & Fonts
+\usepackage{amsmath,amssymb,amsthm}        % AMS math
+\usepackage{fontawesome5}                  % Icons
+\usepackage{minted}                        % Code listings
+
+% Graphics
+\usepackage{graphicx}                      % Include graphics
+
+% Lists and boxes
+\usepackage{enumitem}
+% TODO lists
+\newlist{todolist}{itemize}{2}
+\setlist[todolist]{label=$\square$}       
+\usepackage[most]{tcolorbox}               % Colored boxes
+
+% Header / footer
+\usepackage{fancyhdr}                      % Fancy header
+
+% Hyperlinks (keep last)
+\usepackage{hyperref}                      % Hyperlinks
+
+% -------------------------------------------------
+% Macros & Styles
+% -------------------------------------------------
+
+% Course‑specific info
+\newcommand{\course}{ECE 531/COS 531: Robot Planning Meets Machine Learning}
+\newcommand{\semester}{Fall 2025}
+
+% Common icons
+\newcommand{\WritingIcon}{\faEdit}
+\newcommand{\CodeIcon}{\faLaptopCode}
+\newcommand{\WarningIcon}{\faExclamationTriangle}
+
+
+% tcolorbox base style
+\tcbset{
+  base/.style={
+    before skip=2em,
+    after skip=2em,
+    colback=purple!5!white,
+    colframe=purple!25!white,
+    fonttitle=\bfseries,
+    coltitle=black,
+    boxrule=0.8pt,
+    arc=4pt,
+    left=6pt,right=6pt,top=6pt,bottom=6pt
+  }
+}
+
+% Individual box styles
+\newtcolorbox{instructionsbox}[1][]{base,title=Instructions,#1}
+\newtcolorbox{ponderbox}[1][]{base,title=Pause to Ponder (No Points \& No Submission Required),#1}
+\newtcolorbox{warningbox}[1][]{base,title=\WarningIcon\ Important Note,#1}
+
+% Answer box macro
+\newcommand{\AnswerBox}[1]{\framebox[\textwidth][c]{\rule{0pt}{#1}}}
+
+% Spacing
+\setlength{\parskip}{1ex}
+\setlength{\parindent}{0pt}
+
+% Header / footer
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{\course}
+\rhead{\semester}
+\cfoot{\thepage}
+
+% Hyperref colors
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue,
+    citecolor=blue,
+}
+
+% Title
+\title{\vspace{-3em}\textbf{Pre-Class Paper Review}\vspace{-2em}}
+\date{\vspace{-3em}}
+
+% -------------------------------------------------
+\begin{document}
+\maketitle
+\thispagestyle{fancy}
+
+\begin{instructionsbox}
+\begin{itemize}
+    \item Suppose that you are providing a peer review of this paper, helping to decide whether it will be published at a major venue.
+    \item Use the template below to complete your pre-class paper reviews.
+    \item You must read \emph{all} papers, but you only need to choose \emph{one} paper to review per class.
+    \item Submit your paper reviews on GradeScope.
+\end{itemize}
+\end{instructionsbox}
+
+\textbf{Your Name:} 
+
+\textbf{Paper Title:}
+
+\textbf{Paper Authors:}
+
+\textbf{Paper Year:}
+
+\hrulefill
+
+\section*{Paper Summary}
+\emph{A factual summary of the paper. Approximately 1 paragraph.}
+
+\section*{Strengths}
+
+\textbf{Name for Strength 1.} \emph{A discussion of the strength. A few sentences.}
+
+\textbf{Name for Strength 2.} \emph{A discussion of the strength. A few sentences.}
+
+\textbf{\dots}
+
+\section*{Weaknesses}
+
+\textbf{Name for Weakness 1.} \emph{A discussion of the weakness. A few sentences.}
+
+\textbf{Name for Weakness 2.} \emph{A discussion of the weakness. A few sentences.}
+
+\textbf{\dots}
+
+\section*{Questions}
+
+\begin{enumerate}
+    \item \emph{The first question that you want the authors to answer during the rebuttal period.}
+    \item \emph{The second question that you want the authors to answer during the rebuttal period.}
+    \item \dots
+\end{enumerate}
+
+
+
+\end{document}

@@ -4,7 +4,7 @@ title: Learning to Make Planning Fast
 
 Nov 3
 : **HW**{: .label .label-red }Pre-Class Paper Reviews Due
-  : [](#)
+  : [PDF](/assets/pdf/hw/paper_review_guidelines.pdf) \| [LaTeX](/assets/pdf/hw/paper_review_guidelines.tex)
 
 Nov 4
 : **Papers**{: .label .label-green }<b>Learning to Guide MCTS</b>
@@ -17,7 +17,7 @@ Nov 4
 
 Nov 5
 : **HW**{: .label .label-red }Pre-Class Paper Reviews Due
-  : [](#)
+  : [PDF](/assets/pdf/hw/paper_review_guidelines.pdf) \| [LaTeX](/assets/pdf/hw/paper_review_guidelines.tex)
 
 Nov 6
 : **Papers**{: .label .label-green }<b>Learning Policies to Guide Planning</b>
@@ -30,7 +30,7 @@ Nov 6
 
 Nov 10
 : **HW**{: .label .label-red }Pre-Class Paper Reviews Due
-  : [](#)
+  : [PDF](/assets/pdf/hw/paper_review_guidelines.pdf) \| [LaTeX](/assets/pdf/hw/paper_review_guidelines.tex)
 
 Nov 11
 : **Papers**{: .label .label-green }<b>Learning Samplers for Motion Planning and TAMP</b>
@@ -43,7 +43,7 @@ Nov 11
 
 Nov 12
 : **HW**{: .label .label-red }Pre-Class Paper Reviews Due
-  : [](#)
+  : [PDF](/assets/pdf/hw/paper_review_guidelines.pdf) \| [LaTeX](/assets/pdf/hw/paper_review_guidelines.tex)
 
 Nov 13
 : **Papers**{: .label .label-green }<b>Classical Planning with LLMs</b>
@@ -56,7 +56,7 @@ Nov 13
 
 Nov 17
 : **HW**{: .label .label-red }Pre-Class Paper Reviews Due
-  : [](#)
+  : [PDF](/assets/pdf/hw/paper_review_guidelines.pdf) \| [LaTeX](/assets/pdf/hw/paper_review_guidelines.tex)
 
 Nov 18
 : **Papers**{: .label .label-green }<b>Learning Factored State Abstractions</b>
@@ -69,7 +69,7 @@ Nov 18
 
 Nov 19
 : **HW**{: .label .label-red }Pre-Class Paper Reviews Due
-  : [](#)
+  : [PDF](/assets/pdf/hw/paper_review_guidelines.pdf) \| [LaTeX](/assets/pdf/hw/paper_review_guidelines.tex)
 
 Nov 20
 : **Papers**{: .label .label-green }<b>Learning Action Abstractions (Options)</b>
@@ -82,7 +82,7 @@ Nov 20
 
 Nov 24
 : **Project**{: .label .label-yellow }Project Update 2 Due
-  : [Guidelines](#)
+  : [](#)
 
 Nov 25
 : No Class (Thanksgiving Recess)

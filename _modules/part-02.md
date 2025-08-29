@@ -19,7 +19,7 @@ Oct 16
 
 Oct 20
 : **HW**{: .label .label-red }Pre-Class Paper Reviews Due
-  : [Guidelines](/assets/pdf/paper_review_guidelines.pdf)
+  : [PDF](/assets/pdf/hw/paper_review_guidelines.pdf) \| [LaTeX](/assets/pdf/hw/paper_review_guidelines.tex)
 
 Oct 21
 : **Papers**{: .label .label-green }<b>Learning Latent Space Models for Motion Planning</b>
@@ -32,7 +32,7 @@ Oct 21
 
 Oct 22
 : **HW**{: .label .label-red }Pre-Class Paper Reviews Due
-  : [](#)
+  : [PDF](/assets/pdf/hw/paper_review_guidelines.pdf) \| [LaTeX](/assets/pdf/hw/paper_review_guidelines.tex)
 
 Oct 23
 : **Papers**{: .label .label-green }<b>Learning Latent Space Models for TrajOpt</b>
@@ -45,7 +45,7 @@ Oct 23
 
 Oct 27
 : **HW**{: .label .label-red }Pre-Class Paper Reviews Due
-  : [](#)
+  : [PDF](/assets/pdf/hw/paper_review_guidelines.pdf) \| [LaTeX](/assets/pdf/hw/paper_review_guidelines.tex)
 
 Oct 28
 : **Papers**{: .label .label-green }<b>Learning Models for Task and Motion Planning</b>
@@ -62,4 +62,4 @@ Oct 30
 
 Oct 31
 : **Project**{: .label .label-yellow }Project Update 1 Due
-  : [Guidelines](#)
+  : [](#)
