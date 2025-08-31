@@ -16,7 +16,7 @@ If you have not done so already, [complete the course registration form](https:/
 
 ### Enroll in Gradescope
 
-Use the access code **WJJPZ8** to enroll in the Gradescope course. See [here](https://guides.gradescope.com/hc/en-us/articles/21853290544909-Joining-a-Course) for detailed instructions.
+Use the access code **WJJPZ8** to enroll in [the Gradescope course](https://www.gradescope.com/courses/1025616). See [here](https://guides.gradescope.com/hc/en-us/articles/21853290544909-Joining-a-Course) for detailed instructions.
 
 ### Fork the Course Code
 
