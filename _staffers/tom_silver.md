@@ -5,5 +5,5 @@ email: tsilver@princeton.edu
 website: https://tomsilver.github.io/
 photo: tomsilver3-high-res.jpg
 meta:
-  Office Hours: TBD
+  Office Hours: Tuesdays 4:30pm-6pm, EQuad B418.
 ---
