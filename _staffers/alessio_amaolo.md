@@ -4,5 +4,5 @@ role: Teaching Assistant
 email: alessioamaolo@princeton.edu
 photo: alessio-square.jpg
 meta:
-  Office Hours: Sundays at 10:30AM. Location TBD.
+  Office Hours: Sundays 10:30AM at EQuad B418.
 ---
