@@ -8,7 +8,7 @@ Sep 2
 
 Sep 4
 : **Lecture**{: .label .label-purple }Offline Planning in MDPs
-  : [](#)
+  : [Slides](/assets/pdf/lecture_slides/RPMML-2025-Lecture1.pdf)
 
 Sep 8
 : **HW**{: .label .label-red }HW0 Due
