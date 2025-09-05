@@ -43,6 +43,8 @@ This will allow you to pull in future updates to the course code.
 
 We require that you use a virtual environment when working with course code to avoid unintended interactions with other code on your machine. Specifically, we require you to use <a href="https://github.com/astral-sh/uv">uv</a>. Follow the instructions to install uv if you do not already have it. Then, while in your cloned repository:
 
+**Note: Make sure that you fully deactivate any conda environments before running these steps.**
+
 ```bash
 uv venv --python=3.10
 source .venv/bin/activate
