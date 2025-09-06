@@ -16,7 +16,7 @@ Sep 8
 
 Sep 9
 : **Lecture**{: .label .label-purple }Online Planning in MDPs
-  : [](#)
+  : [Slides](/assets/pdf/lecture_slides/RPMML-2025-Lecture2.pdf)
 
 Sep 11
 : **Lecture**{: .label .label-purple }Monte Carlo Methods
