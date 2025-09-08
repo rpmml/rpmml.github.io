@@ -22,11 +22,10 @@ Sep 11
 : **Lecture**{: .label .label-purple }Monte Carlo Methods
   : [](#)
 
-Sep 15
+Sep 16
 : **HW**{: .label .label-red }HW1 Due
   : [PDF](/assets/pdf/hw/hw1.pdf) \| [LaTeX](/assets/pdf/hw/hw1.zip)
 
-Sep 16
 : **Lecture**{: .label .label-purple }Partial Observability
   : [](#)
 
@@ -34,11 +33,10 @@ Sep 18
 : **Lecture**{: .label .label-purple }Planning and RL
   : [](#)
 
-Sep 22
+Sep 23
 : **HW**{: .label .label-red }HW2 Due
   : [](#)
 
-Sep 23
 : **Lecture**{: .label .label-purple }Planning in Factored Spaces
   : [](#)
 
@@ -46,11 +44,10 @@ Sep 25
 : **Lecture**{: .label .label-purple }Motion Planning
   : [](#)
 
-Sep 29
+Sep 30
 : **HW**{: .label .label-red }HW3 Due
   : [](#)
 
-Sep 30
 : **Lecture**{: .label .label-purple }Trajectory Optimization
   : [](#)
 
