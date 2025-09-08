@@ -24,7 +24,7 @@ Sep 11
 
 Sep 15
 : **HW**{: .label .label-red }HW1 Due
-  : [](#)
+  : [PDF](/assets/pdf/hw/hw1.pdf) \| [LaTeX](/assets/pdf/hw/hw1.zip)
 
 Sep 16
 : **Lecture**{: .label .label-purple }Partial Observability
