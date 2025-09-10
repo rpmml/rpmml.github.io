@@ -20,7 +20,7 @@ Sep 9
 
 Sep 11
 : **Lecture**{: .label .label-purple }Monte Carlo Methods
-  : [](#)
+  : [Slides](/assets/pdf/lecture_slides/RPMML-2025-Lecture3.pdf)
 
 Sep 16
 : **HW**{: .label .label-red }HW1 Due
