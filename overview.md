@@ -20,7 +20,7 @@ permalink: /:path/
 <li>New student registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLScFXiWyp5Rf2jW-e-CuX51656R7vvsjSRX6O5Tp805Pq-viIw/viewform?usp=sharing">Google form</a></li>
 <li>Access homework code: <a href="https://github.com/rpmml/rpmml-code">GitHub</a></li>
 <li>Submit problem sets: <a href="https://www.gradescope.com/courses/1025616">Gradescope</a></li>
-<li>Ask questions and receive course announcements: <a href="https://piazza.com/princeton/fall2025/ece531cos531">Piazza</a></li>
+<li>Ask questions and receive course announcements: <a href="https://edstem.org/us/courses/86658/">Ed</a></li>
 <li>Submit anonymous feedback: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfG2BQKfxvfVwHCwSDi-q7wG2gUNWPdGVIFO5VmfVNoz5mwjA/viewform?usp=sharing">Google form</a></li>
 </ul>
 
