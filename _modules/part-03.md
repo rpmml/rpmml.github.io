@@ -20,19 +20,6 @@ Nov 5
   : [PDF](/assets/pdf/hw/paper_review_guidelines.pdf) \| [LaTeX](/assets/pdf/hw/paper_review_guidelines.tex)
 
 Nov 6
-: **Papers**{: .label .label-green }<b>Learning Policies to Guide Planning</b>
-: "Learning control knowledge for forward search planning" (Yoon et al., 2008)
-  : [PDF](http://jmlr.org/papers/volume9/yoon08a/yoon08a.pdf)
-: "PG3: policy-guided planning for generalized policy generation" (Yang et al., 2022)
-  : [PDF](https://arxiv.org/pdf/2204.10420)
-: "Policy-guided lazy search with feedback for task and motion planning" (Khodeir et al., 2022)
-  : [PDF](https://arxiv.org/pdf/2210.14055)
-
-Nov 10
-: **HW**{: .label .label-red }Pre-Class Paper Reviews Due
-  : [PDF](/assets/pdf/hw/paper_review_guidelines.pdf) \| [LaTeX](/assets/pdf/hw/paper_review_guidelines.tex)
-
-Nov 11
 : **Papers**{: .label .label-green }<b>Learning Samplers for Motion Planning and TAMP</b>
 : "Motion planning networks: bridging the gap between learning-based and classical motion planners" (Qureshi et al., 2020)
   : [PDF](https://arxiv.org/pdf/1907.06013)
@@ -41,11 +28,11 @@ Nov 11
 : "Compositional diffusion-based continuous constraint solvers" (Yang et al., 2023)
   : [PDF](https://arxiv.org/pdf/2309.00966)
 
-Nov 12
+Nov 10
 : **HW**{: .label .label-red }Pre-Class Paper Reviews Due
   : [PDF](/assets/pdf/hw/paper_review_guidelines.pdf) \| [LaTeX](/assets/pdf/hw/paper_review_guidelines.tex)
 
-Nov 13
+Nov 11
 : **Papers**{: .label .label-green }<b>Classical Planning with LLMs</b>
 : "LLMs can't plan, but can help planning in LLM-Modulo frameworks" (Kambhampati et al., 2024)
   : [PDF](https://arxiv.org/pdf/2402.01817)
@@ -53,6 +40,19 @@ Nov 13
   : [PDF](https://arxiv.org/pdf/2305.11014)
 : "Classical planning with LLM-generated heuristics: challenging the state of the art with python code" (Corrêa et al., 2025)
   : [PDF](https://arxiv.org/pdf/2503.18809)
+
+Nov 12
+: **HW**{: .label .label-red }Pre-Class Paper Reviews Due
+  : [PDF](/assets/pdf/hw/paper_review_guidelines.pdf) \| [LaTeX](/assets/pdf/hw/paper_review_guidelines.tex)
+
+Nov 13
+: **Papers**{: .label .label-green }<b>Planning with VLAs</b>
+: "CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models" (Zhao et al., 2025)
+  : [PDF](https://arxiv.org/pdf/2503.22020)
+: "Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models" (Shi et al., 2025)
+  : [PDF](https://arxiv.org/pdf/2502.19417)
+: "MolmoAct: Action Reasoning Models that can Reason in Space" (Lee et al., 2025)
+  : [PDF](https://arxiv.org/pdf/2508.07917)
 
 Nov 17
 : **HW**{: .label .label-red }Pre-Class Paper Reviews Due
