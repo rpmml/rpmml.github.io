@@ -4,11 +4,11 @@ title: Planning Foundations
 
 Sep 2
 : **Lecture**{: .label .label-purple }Intro
-  : [Slides](/assets/pdf/lecture_slides/RPMML-2025-Lecture0.pdf)
+  : [PDF](/assets/pdf/lecture_slides/RPMML-2025-Lecture0.pdf)
 
 Sep 4
 : **Lecture**{: .label .label-purple }Offline Planning in MDPs
-  : [Slides](/assets/pdf/lecture_slides/RPMML-2025-Lecture1.pdf)
+  : [PDF](/assets/pdf/lecture_slides/RPMML-2025-Lecture1.pdf) \| [PPT](/assets/pdf/lecture_slides/RPMML-2025-Lecture1.pptx)
 
 Sep 8
 : **HW**{: .label .label-red }HW0 Due
@@ -16,11 +16,11 @@ Sep 8
 
 Sep 9
 : **Lecture**{: .label .label-purple }Online Planning in MDPs
-  : [Slides](/assets/pdf/lecture_slides/RPMML-2025-Lecture2.pdf)
+  : [PDF](/assets/pdf/lecture_slides/RPMML-2025-Lecture2.pdf) \| [PPT](/assets/pdf/lecture_slides/RPMML-2025-Lecture2.pptx)
 
 Sep 11
 : **Lecture**{: .label .label-purple }Monte Carlo Methods
-  : [Slides](/assets/pdf/lecture_slides/RPMML-2025-Lecture3.pdf)
+  : [PDF](/assets/pdf/lecture_slides/RPMML-2025-Lecture3.pdf) \| [PPT](/assets/pdf/lecture_slides/RPMML-2025-Lecture3.pptx)
 
 Sep 16
 : **HW**{: .label .label-red }HW1 Due
