@@ -27,7 +27,7 @@ Sep 16
   : [PDF](/assets/pdf/hw/hw1.pdf) \| [LaTeX](/assets/pdf/hw/hw1.zip)
 
 : **Lecture**{: .label .label-purple }Partial Observability
-  : [](#)
+  : [PDF](/assets/pdf/lecture_slides/RPMML-2025-Lecture4.pdf) \| [PPT](/assets/pdf/lecture_slides/RPMML-2025-Lecture4.pptx)
 
 Sep 18
 : **Lecture**{: .label .label-purple }Planning and RL
@@ -35,7 +35,7 @@ Sep 18
 
 Sep 23
 : **HW**{: .label .label-red }HW2 Due
-  : [](#)
+  : [PDF](/assets/pdf/hw/hw2.pdf) \| [LaTeX](/assets/pdf/hw/hw2.zip)
 
 : **Lecture**{: .label .label-purple }Planning in Factored Spaces
   : [](#)
