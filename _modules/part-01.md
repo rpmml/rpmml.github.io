@@ -31,7 +31,7 @@ Sep 16
 
 Sep 18
 : **Lecture**{: .label .label-purple }Planning and RL
-  : [](#)
+  : [PDF](/assets/pdf/lecture_slides/RPMML-2025-Lecture5.pdf) \| [PPT](/assets/pdf/lecture_slides/RPMML-2025-Lecture5.pptx)
 
 Sep 23
 : **HW**{: .label .label-red }HW2 Due
