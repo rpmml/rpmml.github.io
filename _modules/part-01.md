@@ -38,7 +38,7 @@ Sep 23
   : [PDF](/assets/pdf/hw/hw2.pdf) \| [LaTeX](/assets/pdf/hw/hw2.zip)
 
 : **Lecture**{: .label .label-purple }Planning in Factored Spaces
-  : [](#)
+  : [PDF](/assets/pdf/lecture_slides/RPMML-2025-Lecture6.pdf) \| [PPT](/assets/pdf/lecture_slides/RPMML-2025-Lecture6.pptx)
 
 Sep 25
 : **Lecture**{: .label .label-purple }Motion Planning
