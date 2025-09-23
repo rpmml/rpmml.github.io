@@ -46,7 +46,7 @@ Sep 25
 
 Sep 30
 : **HW**{: .label .label-red }HW3 Due
-  : [](#)
+  : [PDF](/assets/pdf/hw/hw3.pdf) \| [LaTeX](/assets/pdf/hw/hw3.zip)
 
 : **Lecture**{: .label .label-purple }Trajectory Optimization
   : [](#)
