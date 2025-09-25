@@ -42,7 +42,7 @@ Sep 23
 
 Sep 25
 : **Lecture**{: .label .label-purple }Motion Planning
-  : [](#)
+  : [PDF](/assets/pdf/lecture_slides/RPMML-2025-Lecture7.pdf) \| [PPT](/assets/pdf/lecture_slides/RPMML-2025-Lecture7.pptx)
 
 Sep 30
 : **HW**{: .label .label-red }HW3 Due
