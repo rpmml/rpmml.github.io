@@ -60,5 +60,9 @@ Oct 6
   : [](#)
 
 Oct 7
+: **Lecture**{: .label .label-purple }Extra Lecture
+  : [](#)
+
+Oct 9
 : **Lecture**{: .label .label-purple }Guest Lecture (TBD)
   : [](#)
