@@ -45,9 +45,6 @@ Sep 25
   : [PDF](/assets/pdf/lecture_slides/RPMML-2025-Lecture7.pdf) \| [PPT](/assets/pdf/lecture_slides/RPMML-2025-Lecture7.pptx)
 
 Sep 30
-: **HW**{: .label .label-red }HW3 Due
-  : [PDF](/assets/pdf/hw/hw3.pdf) \| [LaTeX](/assets/pdf/hw/hw3.zip)
-
 : **Lecture**{: .label .label-purple }Trajectory Optimization
   : [](#)
 
@@ -66,3 +63,7 @@ Oct 7
 Oct 9
 : **Lecture**{: .label .label-purple }Guest Lecture (TBD)
   : [](#)
+
+Oct 10
+: **HW**{: .label .label-red }HW3 Due
+  : [PDF](/assets/pdf/hw/hw3.pdf) \| [LaTeX](/assets/pdf/hw/hw3.zip)
