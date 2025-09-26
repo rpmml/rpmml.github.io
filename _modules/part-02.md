@@ -1,7 +1,7 @@
 ---
 title: Learning to Make Planning Possible
 ---
-
+<del>
 Oct 9
 : **Papers**{: .label .label-green }<b>Learning Symbolic Abstractions for Planning</b>
 : "From skills to symbols: learning symbolic representations for abstract high-level planning" (Konidaris et al., 2018)
@@ -10,6 +10,7 @@ Oct 9
   : [PDF](https://arxiv.org/pdf/1705.00154)
 : "InterPreT: interactive predicate learning from language feedback for generalizable task planning" (Han et al., 2024)
   : [PDF](https://arxiv.org/pdf/2405.19758)
+</del>
 
 Oct 14
 : No Class (Fall Recess)
