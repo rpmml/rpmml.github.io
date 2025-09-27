@@ -54,7 +54,7 @@ Oct 2
 
 Oct 6
 : **Project**{: .label .label-yellow }Final Project Proposal Due
-  : [](#)
+  : [PDF](/assets/pdf/hw/final_project_proposal.pdf) \| [LaTeX](/assets/pdf/hw/final_project_proposal.zip)
 
 Oct 7
 : **Lecture**{: .label .label-purple }Extra Lecture
