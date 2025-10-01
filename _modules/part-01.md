@@ -46,7 +46,7 @@ Sep 25
 
 Sep 30
 : **Lecture**{: .label .label-purple }Trajectory Optimization
-  : [](#)
+  : [PDF](/assets/pdf/lecture_slides/RPMML-2025-Lecture8.pdf) \| [PPT](/assets/pdf/lecture_slides/RPMML-2025-Lecture8.pptx)
 
 Oct 2
 : **Lecture**{: .label .label-purple }Hierarchy and Abstraction
