@@ -50,18 +50,18 @@ Sep 30
 
 Oct 2
 : **Lecture**{: .label .label-purple }Hierarchy and Abstraction
-  : [](#)
+  : [PDF](/assets/pdf/lecture_slides/RPMML-2025-Lecture9.pdf) \| [PPT](/assets/pdf/lecture_slides/RPMML-2025-Lecture9.pptx)
 
 Oct 6
 : **Project**{: .label .label-yellow }Final Project Proposal Due
   : [PDF](/assets/pdf/hw/final_project_proposal.pdf) \| [LaTeX](/assets/pdf/hw/final_project_proposal.zip)
 
 Oct 7
-: **Lecture**{: .label .label-purple }Extra Lecture
+: **Lecture**{: .label .label-purple }Buffer Lecture
   : [](#)
 
 Oct 9
-: **Lecture**{: .label .label-purple }Guest Lecture (TBD)
+: **Lecture**{: .label .label-purple }Guest Lecture (Yixuan Huang)
   : [](#)
 
 Oct 10
