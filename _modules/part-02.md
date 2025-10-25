@@ -53,4 +53,4 @@ Oct 30
 
 Oct 31
 : **Project**{: .label .label-yellow }Project Update 1 Due
-  : [](#)
+  : [PDF](/assets/pdf/hw/final_project_update1.pdf) \| [LaTeX](/assets/pdf/hw/final_project_update1.zip)
