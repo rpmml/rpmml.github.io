@@ -82,7 +82,7 @@ Nov 20
 
 Nov 24
 : **Project**{: .label .label-yellow }Project Update 2 Due
-  : [](#)
+  : [PDF](/assets/pdf/hw/final_project_update2.pdf) \| [LaTeX](/assets/pdf/hw/final_project_update2.zip)
 
 Nov 25
 : No Class (Thanksgiving Recess)
