@@ -30,4 +30,4 @@ Dec 4
 
 Dec 15
 : **Project**{: .label .label-yellow }Final Project Due
-  : [](#)
+  : [PDF](/assets/pdf/hw/final_project_report.pdf) 
