@@ -1,69 +1,37 @@
 ---
-title: Planning Foundations
+title: "Part 1: Learning to Make Planning Possible"
 ---
 
-Sep 2
-: **Lecture**{: .label .label-purple }Intro
-  : [PDF](/assets/pdf/lecture_slides/RPMML-2025-Lecture0.pdf)
+Jan 26
+: **Lecture**{: .label .label-purple }Course Introduction
 
-Sep 4
-: **Lecture**{: .label .label-purple }Offline Planning in MDPs
-  : [PDF](/assets/pdf/lecture_slides/RPMML-2025-Lecture1.pdf) \| [PPT](/assets/pdf/lecture_slides/RPMML-2025-Lecture1.pptx)
+Jan 28
+: **Lecture**{: .label .label-purple }Offline Planning in Markov Decision Processes (MDPs)
 
-Sep 8
-: **HW**{: .label .label-red }HW0 Due
-  : [PDF](/assets/pdf/hw/hw0.pdf) \| [LaTeX](/assets/pdf/hw/hw0.zip)
+Feb 2
+: **Papers**{: .label .label-green }Learning MDP Models
+: Anchor paper: TBD
 
-Sep 9
+Feb 4
 : **Lecture**{: .label .label-purple }Online Planning in MDPs
-  : [PDF](/assets/pdf/lecture_slides/RPMML-2025-Lecture2.pdf) \| [PPT](/assets/pdf/lecture_slides/RPMML-2025-Lecture2.pptx)
 
-Sep 11
-: **Lecture**{: .label .label-purple }Monte Carlo Methods
-  : [PDF](/assets/pdf/lecture_slides/RPMML-2025-Lecture3.pdf) \| [PPT](/assets/pdf/lecture_slides/RPMML-2025-Lecture3.pptx)
+Feb 9
+: **Papers**{: .label .label-green }Learning Models for Online Planning
+: Anchor paper: TBD
 
-Sep 16
-: **HW**{: .label .label-red }HW1 Due
-  : [PDF](/assets/pdf/hw/hw1.pdf) \| [LaTeX](/assets/pdf/hw/hw1.zip)
-
-: **Lecture**{: .label .label-purple }Partial Observability
-  : [PDF](/assets/pdf/lecture_slides/RPMML-2025-Lecture4.pdf) \| [PPT](/assets/pdf/lecture_slides/RPMML-2025-Lecture4.pptx)
-
-Sep 18
-: **Lecture**{: .label .label-purple }Planning and RL
-  : [PDF](/assets/pdf/lecture_slides/RPMML-2025-Lecture5.pdf) \| [PPT](/assets/pdf/lecture_slides/RPMML-2025-Lecture5.pptx)
-
-Sep 23
-: **HW**{: .label .label-red }HW2 Due
-  : [PDF](/assets/pdf/hw/hw2.pdf) \| [LaTeX](/assets/pdf/hw/hw2.zip)
-
-: **Lecture**{: .label .label-purple }Planning in Factored Spaces
-  : [PDF](/assets/pdf/lecture_slides/RPMML-2025-Lecture6.pdf) \| [PPT](/assets/pdf/lecture_slides/RPMML-2025-Lecture6.pptx)
-
-Sep 25
+Feb 11
 : **Lecture**{: .label .label-purple }Motion Planning
-  : [PDF](/assets/pdf/lecture_slides/RPMML-2025-Lecture7.pdf) \| [PPT](/assets/pdf/lecture_slides/RPMML-2025-Lecture7.pptx)
 
-Sep 30
-: **Lecture**{: .label .label-purple }Trajectory Optimization
-  : [PDF](/assets/pdf/lecture_slides/RPMML-2025-Lecture8.pdf) \| [PPT](/assets/pdf/lecture_slides/RPMML-2025-Lecture8.pptx)
-
-Oct 2
-: **Lecture**{: .label .label-purple }Hierarchy and Abstraction
-  : [PDF](/assets/pdf/lecture_slides/RPMML-2025-Lecture9.pdf) \| [PPT](/assets/pdf/lecture_slides/RPMML-2025-Lecture9.pptx)
-
-Oct 6
+Feb 12
 : **Project**{: .label .label-yellow }Final Project Proposal Due
-  : [PDF](/assets/pdf/hw/final_project_proposal.pdf) \| [LaTeX](/assets/pdf/hw/final_project_proposal.zip)
 
-Oct 7
-: **Lecture**{: .label .label-purple }Buffer Lecture
-  : [](#)
+Feb 16
+: **Papers**{: .label .label-green }Learning Models for Motion Planning
+: Anchor paper: TBD
 
-Oct 9
-: **Lecture**{: .label .label-purple }Guest Lecture (Yixuan Huang)
-  : [](#)
+Feb 18
+: **Lecture**{: .label .label-purple }Trajectory Optimization
 
-Oct 10
-: **HW**{: .label .label-red }HW3 Due
-  : [PDF](/assets/pdf/hw/hw3.pdf) \| [LaTeX](/assets/pdf/hw/hw3.zip)
+Feb 23
+: **Papers**{: .label .label-green }Learning Dynamics Models for Trajectory Optimization
+: Anchor paper: TBD

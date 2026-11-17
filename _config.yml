@@ -34,6 +34,8 @@ collections:
   staffers:
   modules:
   schedules:
+  fall2025_staffers:
+  fall2025_modules:
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -47,6 +49,19 @@ defaults:
   - scope:
       path: ''
       type: modules
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: fall2025_staffers
+    values:
+      layout: staffer
+      height: 300
+      subpath: '/assets/images/'
+      width: 300
+  - scope:
+      path: ''
+      type: fall2025_modules
     values:
       layout: module
 

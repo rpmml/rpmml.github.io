@@ -1,56 +1,46 @@
 ---
-title: Learning to Make Planning Possible
+title: "Part 2: Learning to Make Planning Fast"
 ---
 
-Oct 14
-: No Class (Fall Recess)
+Feb 25
+: **Lecture**{: .label .label-purple }Monte Carlo Methods for Online MDP Planning
 
-Oct 16
-: No Class (Fall Recess)
+Feb 26
+: **HW**{: .label .label-red }Problem Set 1 Due
 
-Oct 20
-: **HW**{: .label .label-red }Pre-Class Paper Reviews Due
-  : [PDF](/assets/pdf/hw/paper_review_guidelines.pdf) \| [LaTeX](/assets/pdf/hw/paper_review_guidelines.tex)
+Mar 2
+: **Papers**{: .label .label-green }Learning to Guide Monte Carlo Tree Search
+: Anchor paper: TBD
 
-Oct 21
-: **Papers**{: .label .label-green }<b>Learning Latent Space Models for Motion Planning</b>
-: "Robot motion planning in learned latent spaces" (Ichter & Pavone, 2019)
-  : [PDF](https://arxiv.org/pdf/1807.10366)
-: "Latent planning via expansive tree search" (Gieselmann & Pokorny, 2022)
-  : [PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/6af779991368999ab3da0d366c208fba-Paper-Conference.pdf)
-: "Motion planning by learning the solution manifold in trajectory optimization" (Osa, 2022)
-  : [PDF](https://arxiv.org/pdf/2107.05842)
+Mar 4
+: **Lecture**{: .label .label-purple }Planning under Partial Observability
 
-Oct 22
-: **HW**{: .label .label-red }Pre-Class Paper Reviews Due
-  : [PDF](/assets/pdf/hw/paper_review_guidelines.pdf) \| [LaTeX](/assets/pdf/hw/paper_review_guidelines.tex)
+Mar 5
+: **Project**{: .label .label-yellow }Final Project Update 1 Due
 
-Oct 23
-: **Papers**{: .label .label-green }<b>Learning Latent Space Models for TrajOpt</b>
-: "Embed to control: a locally linear latent dynamics model for control from raw images" (Watter et al., 2015)
-  : [PDF](https://proceedings.neurips.cc/paper_files/paper/2015/file/a1afc58c6ca9540d057299ec3016d726-Paper.pdf)
-: "Dream to control: learning behaviors by latent imagination" (Hafner et al., 2020)
-  : [PDF](https://arxiv.org/pdf/1912.01603)
-: "Guaranteed discovery of controllable latent states with multi-step inverse models" (Lamb et al., 2022)
-  : [PDF](https://arxiv.org/pdf/2207.08229)
+Mar 9
+: No Class (Spring Recess)
 
-Oct 27
-: **HW**{: .label .label-red }Pre-Class Paper Reviews Due
-  : [PDF](/assets/pdf/hw/paper_review_guidelines.pdf) \| [LaTeX](/assets/pdf/hw/paper_review_guidelines.tex)
+Mar 11
+: No Class (Spring Recess)
 
-Oct 28
-: **Papers**{: .label .label-green }<b>Learning Models for Task and Motion Planning</b>
-: "Predicate invention for bilevel planning" (Silver et al., 2023)
-  : [PDF](https://arxiv.org/pdf/2203.09634)
-: "From real world to logic and back: learning generalizable relational concepts for long horizon robot planning" (Shah et al., 2025)
-  : [PDF](https://arxiv.org/pdf/2402.11871)
-: "VisualPredicator: learning abstract world models with neuro-symbolic predicates for robot planning" (Liang et al., 2025)
-  : [PDF](https://arxiv.org/pdf/2410.23156)
+Mar 16
+: **Papers**{: .label .label-green }Learning to Plan Efficiently under Partial Observability
+: Anchor paper: TBD
 
-Oct 30
-: <b>No Class</b>
-: Use the extra time to work on final projects!
+Mar 18
+: **Lecture**{: .label .label-purple }Planning in Factored Spaces
 
-Oct 31
-: **Project**{: .label .label-yellow }Project Update 1 Due
-  : [PDF](/assets/pdf/hw/final_project_update1.pdf) \| [LaTeX](/assets/pdf/hw/final_project_update1.zip)
+Mar 19
+: **HW**{: .label .label-red }Problem Set 2 Due
+
+Mar 23
+: **Papers**{: .label .label-green }Learning State Abstractions
+: Anchor paper: TBD
+
+Mar 25
+: **Lecture**{: .label .label-purple }Hierarchy and Abstraction (Task and Motion Planning)
+
+Mar 30
+: **Papers**{: .label .label-green }Learning Samplers and Action Abstractions for Task and Motion Planning
+: Anchor paper: TBD
